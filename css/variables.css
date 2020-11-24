@@ -1,0 +1,15 @@
+:root{
+
+    /*Text*/
+    --text-family-open-sans:'Open Sans', sans-serif;
+    --text-size: 11px;
+
+    /*Color*/
+    --color-default: #ffffff;
+
+    --color-text-default: #48555B;
+
+    --color-primary:#171819;
+    --color-primary-100:#00A4E5;
+
+}
